@@ -1,0 +1,58 @@
+ ===============
+24-04-2022
+===============
+Source Changelog:
+
+Forklineageos Android 12 Features
+Customizable monet settings
+ Sound Tile
+Power off/Reboot/Recovery Tile
+ DataSwitch Tile
+ Improved Haptic Feedback
+ Swipe for Screenshot
+ Dash Charging/VOOC/Warp Charging support
+ Signature Spoofing Support
+ Safety net working without Magisk
+ Animation on connecting charger
+ Added battery temperature info
+ Systemwide fonts
+ Adaptive playback
+ Pulse and edge notifications
+ Option to Reset Battery stats
+ Pixel launcher on gapps and lawnchair in vanilla build
+ added fullscreen navigation
+ added option to enable media art blur on lockscreen
+ Extreme battery saver 
+ Haptic Feedback on qs tiles
+ Allow toggling camera/mic privacy indicator
+ Runtime toggle for location privacy indicator
+ Smart space (weather on lockscreen)
+ Allow customizing the length of naviation bar
+ Allow disabling ripple effect on unlock
+ Unlimited google photos backup
+ Allow to edit/remove/add tile with one click
+ Add time spent in app in app settings from Wellbeing
+ Optional haptic feedback for back gesture
+ Pixelprops to spoof device fp for various apps
+ Per app volume control
+ Added more dark themes from arrow os also seperate black theme from aex
+ LTE+/4G+ icon
+ Option to display 4g icon instead of LTE
+ Option to disable data disabled icon
+ Protect sensitive info in about device (like imei)
+ Optimizations from proton aosp 
+ Show bolt whilecharging with Text battery style
+Toggle to show media notification background with artwork
+ Lockscreen charging info 
+Search bar avatar
+ Support for oem fast charger detection
+ Added new incall vibration controls(this works fine with google dialer)
+ Network traffic indicator for all devices
+ FPS and CPU info tiles
+ 
+ ===============
+24-04-2022
+===============
+Device Changelog:
+
+ Initial public release
