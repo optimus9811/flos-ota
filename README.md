@@ -1,1 +1,1 @@
-# flos-ota
+OTA configurations for flos builds 
